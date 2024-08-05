@@ -1,0 +1,4 @@
+Customer Name: Abisekh Dey; Items: Date: 31-05-24 Item: Chicken Biriyani & Price: 150 X Quantity: 3;Date: 31-05-24 Item: Mutton Biriyani & Price: 250 X Quantity: 4; Contact No: 8617244589; Payment Amount: 1450; Payment Status: Success
+Customer Name: Abisekh Dey; Items: Date: 31-05-24 Item: Chicken Biriyani & Price: 150 X Quantity: 1;Date: 31-05-24 Item: Mutton Biriyani & Price: 250 X Quantity: 2; Contact No: 8617244589; Payment Amount: 650; Payment Status: Success
+Customer Name: Abisekh Dey; Items: Date: 31-05-24 Item: Chicken Biriyani & Price: 150 X Quantity: 1; Contact No: 8617244589; Payment Amount: 150; Payment Status: Success
+Customer Name: Abisekh Dey; Items: Date: 25-06-24 Item: Chicken Biriyani & Price: 150 X Quantity: 2; Contact No: 8617244589; Payment Amount: 300; Payment Status: Success
